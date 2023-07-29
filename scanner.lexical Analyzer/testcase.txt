@@ -1,0 +1,29 @@
+x12 := 5 %  |. gfhghgjhj ||
+cxvcbvnvbnvbn .|
+integer jac22 %
+real x11 := 18 + 2 * ( 13 - 6 * ( x10 + 1 ) - 2 ) %
+continue ( x11 > 1 ) 	
+  x16 := 1 %
+//iljjjlkjl
+real 45ta := 2.4 % || fffygt .| fdg |. bvg
+Moop := 43 % 
+jac22 := 1 %
+though ( loop = 2 )  
+  barring ( x11 > 1 ) 
+word text := 7 %
+real meg1 := 2.33 %
+x13 := 1 + 2 * 3 %
+finish || single line || coment
+loop
+continue ( x11 > 134 ) 
+  start := 3.21
+integer y16 := 6 %
+real x11 := 2.4 %
+x13 := 1 + 2 * 3 %
+finish
+keep ( x12 < 24 ) 
+finish 
+keep ( 1 < 2 ) 
+x12 := 12 %
+real x11 := 17 + 2 * ( 32 - 65 * ( x10 + 1 ) - start ) %
+finish 

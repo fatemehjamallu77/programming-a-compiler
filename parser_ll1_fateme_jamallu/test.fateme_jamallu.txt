@@ -1,0 +1,50 @@
+void complite_arr ( [ ] integer arr , integer a , integer b , )
+begin || comenttak_khati .| baraye |. tabe
+keep ( ( k := 0 ) % ( k < a ) % ( k := k + 1 ) % )
+begin
+keep ( ( k := 0 ) % ( k < b ) % ( k := k + 1 ) % )
+begin
+brook arr [ a ] [ b ] := k %
+nothing
+end
+nothing
+end
+nothing
+end
+main ( ) 
+begin  |. comment_chand_khati ||
+im_in_main_function .|
+local integer brook index [ 5 ] [ 7 ] %
+local real max := 23.43 %
+local integer second := -4690 % 
+local integer first := 445 %
+local word name := expected %
+def complite_arr ( index , first , first , ) %  
+keep ( ( i := 0 ) % ( i < 100 ) % ( i := i + 1 ) % )
+begin 
+keep ( ( l := 2400 ) % ( l > 100 ) % ( l := l / 2 ) % )
+begin
+continue ( ( j > 100 ) )
+begin ( j := j - 2 ) %
+( first := j + l * i + 99 / max ) %
+( max := 231 - 8.99 // i + 12.9 / max ) %
+though ( ( l // j = 0 ) )
+begin
+print ( j ) %
+nothing
+end
+nothing
+otherwise
+begin
+print ( no ) %
+nothing
+end
+nothing
+end
+nothing
+end
+print ( hi ) %  
+nothing
+end
+nothing
+end
